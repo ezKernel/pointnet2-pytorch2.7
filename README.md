@@ -1,5 +1,6 @@
 This project can be built based on pytorch 2.7.1 ...
 
+```txt
 torch                     2.7.1
 torchaudio                2.7.1
 torchvision               0.22.1
@@ -19,7 +20,7 @@ nvidia-ml-py              12.575.51
 nvidia-nccl-cu12          2.26.2
 nvidia-nvjitlink-cu12     12.6.85
 nvidia-nvtx-cu12          12.6.77
-
+```
 
 
 
