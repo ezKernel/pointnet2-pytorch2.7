@@ -23,5 +23,6 @@ nvidia-nvtx-cu12          12.6.77
 ```
 
 
-
+```shell
 pip install -e .
+```
